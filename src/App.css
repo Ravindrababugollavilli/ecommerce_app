@@ -1,0 +1,52 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shopping-card {
+  justify-content: space-between;
+  background-color: #000000;
+  padding: 20px 30px;
+ 
+}
+
+.product-item {
+  padding: 20px;
+}
+
+.cart{
+  color: aliceblue;
+}
+
+.head{
+  color: aliceblue;
+}
+
+.image{
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+
+}
+
+.cartButton{
+  background-color: orange;
+  color: aliceblue;
+  padding: 5px;
+  border-radius:12px   ;
+  border-color: transparent;
+}
+
+.bg-container{
+  display: column;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+
+}
+.border-lasat{
+  border: 2px solid black;  
+  width: 26%;
+ margin-left: 40%;
+}
